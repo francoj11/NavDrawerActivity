@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">NavDrawerActivity</string>
+
+    <string name="red_activity">Red Activity</string>
+    <string name="green_activity">Green Activity</string>
+    <string name="blue_activity">Blue Activity</string>
+
+    <array name="activities">
+        <item>@string/red_activity</item>
+        <item>@string/green_activity</item>
+        <item>@string/blue_activity</item>
+    </array>
 </resources>
